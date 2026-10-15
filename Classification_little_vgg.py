@@ -10,8 +10,8 @@ num_classes = 5
 img_rows,img_cols = 48,48 #Size of the image
 batch_size = 32 #Total number of images per batch
 
-train_data_dir = 'E:/ai/train' #Training Data Directory
-validation_data_dir = 'E:/ai/validation' #Validation Data Directory
+train_data_dir = 'train' #Training Data Directory (see README for the dataset)
+validation_data_dir = 'validation' #Validation Data Directory
 
 train_datagen = ImageDataGenerator(
 					rescale=1./255, #Rescaling the image
