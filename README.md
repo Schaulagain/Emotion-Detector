@@ -16,3 +16,7 @@ python Facial_Expressions_Recog.py   # uses the model saved in the repo, press q
 ```
 
 The dataset isn't in the repo. To train again, put 48×48 grayscale images (FER-2013 style) in `train/<emotion>/` and `validation/<emotion>/`. I used about 24,000 for training and 3,000 for validation.
+
+## How this was built
+
+I wrote the original version myself in 2021 to learn how CNNs work. In 2026, AI coding agents (mainly **Claude**, in Claude Code) cleaned it up and wrote this README, and I reviewed their changes.
