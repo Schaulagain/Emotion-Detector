@@ -19,4 +19,4 @@ The dataset isn't in the repo. To train again, put 48×48 grayscale images (FER-
 
 ## How this was built
 
-I wrote the original version myself in 2021 to learn how CNNs work. In 2026, AI coding agents (mainly **Claude**, in Claude Code) cleaned it up and wrote this README, and I reviewed their changes.
+I wrote the original version myself in 2021. In 2026, AI coding agents (mainly **Claude**, in Claude Code) cleaned it up and wrote this README, and I reviewed their changes.
